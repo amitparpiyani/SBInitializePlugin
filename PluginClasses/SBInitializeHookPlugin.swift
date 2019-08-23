@@ -6,7 +6,7 @@
 //  Copyright © 2018 Applicaster LTD. All rights reserved.
 //
 
-import Foundation
+// import Foundation
 import ZappPlugins
 import SugarBoxSDK
 
