@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "SBInitializePlugin"
-  s.version           = '0.0.13'
+  s.version           = '0.0.14'
   s.summary          = "Sugarbox Initialize Plugin"
   s.description      = <<-DESC
                         InitializePlugin is a plugin that on launch integrate sugarbox.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
  s.framework = 'SugarBoxSDK'
   s.xcconfig =  { 'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES',
                   'ENABLE_BITCODE' => 'YES',
-                  'SWIFT_VERSION' => '4.2'
+                  'SWIFT_VERSION' => '5.0'
               }
 
   s.dependency 'ZappGeneralPluginsSDK'
