@@ -8,12 +8,13 @@
   },
   "dependency_repository_url": [
     "git@github.com:amitparpiyani/SBInitializePlugin.git",
-    "git@github.com:parpiyaniamit/SugarBoxSDK.git"
+    "git@github.com:parpiyaniamit/SugarBoxSDK.git",
+    "https://github.com/margo-networks-private-limited/SBUIPlugin-iOS.git"
   ],
   "platform": "ios",
   "author_name": "Amit Parpiyani",
   "author_email": "amit.parpiyani@sugarboxnetworks.com",
-  "manifest_version": "0.0.20",
+  "manifest_version": "0.0.22",
   "name": "Initialize Sugarbox",
   "description": "This Plugin helps to initialize sugarbox on zapp app",
   "type": "general",
@@ -21,7 +22,7 @@
   "identifier": "sugarbox_initialize",
   "ui_builder_support": false,
   "dependency_name": "SBInitializePlugin",
-  "dependency_version": "0.0.20",
+  "dependency_version": "0.0.22",
   "whitelisted_account_ids": [
     "5cb825e102507200087bbdcc"
   ],
