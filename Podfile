@@ -7,7 +7,7 @@ source 'git@github.com:applicaster/CocoaPods.git'
 source 'git@github.com:applicaster/PluginsBuilderCocoaPods.git'
 source 'https://cdn.cocoapods.org/'
 source 'git@github.com:parpiyaniamit/SugarBoxSDK.git'
-source 'https://github.com/margo-networks-private-limited/SBUIPlugin-iOS.git'
+source 'https://github.com/margo-networks-private-limited/SBUIPluginiOS.git'
 
 
 
